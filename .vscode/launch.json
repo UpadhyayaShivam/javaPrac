@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "prac01",
+            "request": "launch",
+            "mainClass": "prac01",
+            "projectName": "javalearn_5b05cfbe"
+        },
+        {
+            "type": "java",
+            "name": "lec06",
+            "request": "launch",
+            "mainClass": "lec06",
+            "projectName": "javalearn_5b05cfbe"
+        },
+        {
+            "type": "java",
+            "name": "lec03",
+            "request": "launch",
+            "mainClass": "lec03",
+            "projectName": "javalearn_5b05cfbe"
+        },
+        {
+            "type": "java",
+            "name": "lec2",
+            "request": "launch",
+            "mainClass": "lec2",
+            "projectName": "javalearn_6eeadb09"
+        },
+        {
+            "type": "java",
+            "name": "lec01",
+            "request": "launch",
+            "mainClass": "lec01",
+            "projectName": "javalearn_6eeadb09"
+        },
+        {
+            "type": "java",
+            "name": "FloydsTriangle",
+            "request": "launch",
+            "mainClass": "pattren.FloydsTriangle",
+            "projectName": "javalearn_6eeadb09"
+        },
+        {
+            "type": "java",
+            "name": "numbersinverse",
+            "request": "launch",
+            "mainClass": "pattren.numbersinverse",
+            "projectName": "javalearn_6eeadb09"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Hollow",
+            "request": "launch",
+            "mainClass": "pattren.Hollow",
+            "projectName": "javalearn_6eeadb09"
+        },
+        {
+            "type": "java",
+            "name": "SolidRectangle",
+            "request": "launch",
+            "mainClass": "pattren.SolidRectangle",
+            "projectName": "javalearn_6eeadb09"
+        },
+        {
+            "type": "java",
+            "name": "inverseTraingle",
+            "request": "launch",
+            "mainClass": "pattren.inverseTraingle",
+            "projectName": "javalearn_6eeadb09"
+        },
+        {
+            "type": "java",
+            "name": "numbersTriangle",
+            "request": "launch",
+            "mainClass": "pattren.numbersTriangle",
+            "projectName": "javalearn_6eeadb09"
+        },
+        {
+            "type": "java",
+            "name": "rotatedTraingle",
+            "request": "launch",
+            "mainClass": "pattren.rotatedTraingle",
+            "projectName": "javalearn_6eeadb09"
+        },
+        {
+            "type": "java",
+            "name": "triangle",
+            "request": "launch",
+            "mainClass": "pattren.triangle",
+            "projectName": "javalearn_6eeadb09"
+        }
+    ]
+}
